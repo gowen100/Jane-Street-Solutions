@@ -6,3 +6,4 @@
 * https://www.janestreet.com/puzzles/solutions/august-2020-solution/
 ### JaneSt-Sep20.ipynb - Solution to the Jane St September 2020 problem 
 * https://www.janestreet.com/puzzles/tangled/
+* https://www.janestreet.com/puzzles/solutions/september-2020-solution/
