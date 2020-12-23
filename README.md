@@ -8,8 +8,7 @@
 * https://www.janestreet.com/puzzles/tangled/
 * https://www.janestreet.com/puzzles/solutions/september-2020-solution/
 ### JaneSt-Oct20.ipynb - Solution to the Jane St Oct/Nov 2020 problem 
-Didn't get this one but learned a lot. Implementation is from a stackexchange post
-continuing to work on my own solution
+Didn't get this one but learned a lot. Implementation is from a stackexchange post.Continuing to work on my own solution
 * https://www.janestreet.com/puzzles/candy-collectors/
 * https://www.janestreet.com/puzzles/solutions/october-2020-solution/
 ### JaneSt-Dec20.ipynb - Solution to the Jane St Dec 2020 problem 
