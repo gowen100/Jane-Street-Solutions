@@ -14,6 +14,7 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 ### JaneSt-Dec20.ipynb - Solution to the Jane St Dec 2020 problem 
 This continues 2 previous puzzles which I solved as part of my development.
 * https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2-2/
+* https://www.janestreet.com/puzzles/solutions/december-2020-solution/
 * **JaneSt-Jun18.ipynb** https://www.janestreet.com/puzzles/twenty-four-seven/
 * **JaneSt-Mar19.ipnyb** https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2/
 ### Hooks- Working through the old Hooks series 
