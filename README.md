@@ -19,3 +19,4 @@ This continues 2 previous puzzles which I solved as part of my development.
 ### Hooks- Working through the old Hooks series 
 * **JaneSt-Feb14.ipynb** https://www.janestreet.com/puzzles/february-2014/
 * **JaneSt-May16.ipynb** https://www.janestreet.com/puzzles/hooks-2/
+* **JaneSt-Feb18.ipynb** https://www.janestreet.com/puzzles/hooks-3/
