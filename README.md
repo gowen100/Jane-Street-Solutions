@@ -1,4 +1,4 @@
-### JaneSt-Jan21.ipynb - Solution to the Jane St Jan 2021 problem 
+### JaneSt-Jan21.ipynb - Solution to the Jane St Jan 2021 problem (code to be added at the end of the month)
 Wouldn't have got this one without struggling with the Oct 20 problem
 * https://www.janestreet.com/puzzles/figurine-figuring/
 * https://www.janestreet.com/puzzles/current-puzzle/
