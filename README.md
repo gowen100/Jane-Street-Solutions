@@ -17,6 +17,11 @@ This continues 2 previous puzzles which I solved as part of my development.
 * https://www.janestreet.com/puzzles/solutions/december-2020-solution/
 * **JaneSt-Jun18.ipynb** https://www.janestreet.com/puzzles/twenty-four-seven/
 * **JaneSt-Mar19.ipnyb** https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2/
+### JaneSt-Jan21.ipynb - Solution to the Jane St Jan21 problem 
+Wouldn't have got this one without struggling with the Oct 20 problem
+* https://www.janestreet.com/puzzles/figurine-figuring/
+* https://www.janestreet.com/puzzles/current-puzzle/
+
 ### Hooks- Working through the old Hooks series 
 * **JaneSt-Feb14.ipynb** https://www.janestreet.com/puzzles/february-2014/
 * **JaneSt-May16.ipynb** https://www.janestreet.com/puzzles/hooks-2/
