@@ -11,7 +11,8 @@ This continues 2 previous puzzles which I solved as part of my development.
 * **JaneSt-Mar19.ipnyb** https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2/
 
 ### JaneSt-Oct20.ipynb - Solution to the Jane St Oct/Nov 2020 problem 
-Didn't get this one but learned a lot. Implementation is from a stackexchange post. 
+Didn't get this one but learned a lot. Implementation is from a stackexchange post. <br>
+[Changed my mind on the methodology, having read a bit more on generating functions, and now really like it.]
 * https://www.janestreet.com/puzzles/candy-collectors/
 * https://www.janestreet.com/puzzles/solutions/october-2020-solution/
 
