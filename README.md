@@ -8,7 +8,7 @@ This continues 2 previous puzzles which I solved as part of my development.
 * https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2-2/
 * https://www.janestreet.com/puzzles/solutions/december-2020-solution/
 * **Jun 18** https://www.janestreet.com/puzzles/twenty-four-seven/
-* **Mar 19**https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2/
+* **Mar 19** https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2/
 
 ### Solution to the Jane St Oct/Nov 2020 problem 
 Didn't get this one but learned a lot. Implementation is from a stackexchange post. <br>
