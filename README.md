@@ -36,3 +36,4 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * **Feb 14** https://www.janestreet.com/puzzles/february-2014/
 * **May 16** https://www.janestreet.com/puzzles/hooks-2/
 * **Feb 18** https://www.janestreet.com/puzzles/hooks-3/
+* **Sep 18** https://www.janestreet.com/puzzles/hooks-4/ (works but very slow)
