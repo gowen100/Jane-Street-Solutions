@@ -1,4 +1,4 @@
-## Found out about these puzzles from <a href="https://www.efinancialcareers.co.uk/news/2020/07/how-to-get-a-job-at-jane-street">this article</a>. Going back and looking at some of the older ones when I have time.
+## Found out about these puzzles from <a href="https://www.efinancialcareers.co.uk/news/2020/07/how-to-get-a-job-at-jane-street">this efinancialcareers article</a> from July. Going back and looking at some of the older ones when I have time.
 
 ### Jane St Jan 2021 problem (code to be added at the end of the month)
 Wouldn't have got this one without struggling with the Oct 20 problem
@@ -36,4 +36,5 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * **Feb 14** https://www.janestreet.com/puzzles/february-2014/
 * **May 16** https://www.janestreet.com/puzzles/hooks-2/
 * **Feb 18** https://www.janestreet.com/puzzles/hooks-3/
-* **Aug 18** https://www.janestreet.com/puzzles/hooks-4/ (works but very slow)
+* **Aug 18** https://www.janestreet.com/puzzles/hooks-4/ (works but very slow need to solve by hook not by row)
+* **Jun 19** https://www.janestreet.com/puzzles/hooks-5/ (works given the correct hook placements but very slow, need to go back to the pruning from the hooks #3 solution)
