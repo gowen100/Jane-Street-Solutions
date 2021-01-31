@@ -41,4 +41,4 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * **Nov 19** https://www.janestreet.com/puzzles/hooks-6/ (bit the bullet and changed my approach back to the 3 stage approach I used for #3, which worked well)
 
 ### Other resources
-A very good explanation of the Feb20 - Jun20 puzzles can be found here https://willemhoek.com/
+Very good explanations of the Feb20 - Jun20 puzzles can be found here https://willemhoek.com/
