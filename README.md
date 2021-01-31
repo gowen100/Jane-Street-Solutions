@@ -39,3 +39,6 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * **Aug 18** https://www.janestreet.com/puzzles/hooks-4/ (works but very slow need to solve by hook not by row)
 * **Jun 19** https://www.janestreet.com/puzzles/hooks-5/ (now using the hooks #6 code as two stage hooks #4 solution too slow) 
 * **Nov 19** https://www.janestreet.com/puzzles/hooks-6/ (bit the bullet and changed my approach back to the 3 stage approach I used for #3, which worked well)
+
+### Other resources
+A very good explanation of the Feb20 - Jun20 puzzles can be found here https://willemhoek.com/
