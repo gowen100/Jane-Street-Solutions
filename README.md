@@ -1,6 +1,6 @@
 ## Found out about these puzzles from <a href="https://www.efinancialcareers.co.uk/news/2020/07/how-to-get-a-job-at-jane-street">this efinancialcareers article</a> from July. Going back and looking at some of the older ones when I have time.
 
-### Solution to theJane St Jan 2021 problem 
+### Solution to the Jane St Jan 2021 problem 
 Wouldn't have got this one without struggling with the Oct 20 problem
 * https://www.janestreet.com/puzzles/figurine-figuring/
 * https://www.janestreet.com/puzzles/solutions/january-2021-solution/
