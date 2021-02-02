@@ -1,6 +1,6 @@
 ## Found out about these puzzles from <a href="https://www.efinancialcareers.co.uk/news/2020/07/how-to-get-a-job-at-jane-street">this efinancialcareers article</a> from July. Going back and looking at some of the older ones when I have time.
 
-### Solution to theJane St Jan 2021 problem 
+### Solution to the Jane St Jan 2021 problem 
 Wouldn't have got this one without struggling with the Oct 20 problem
 * https://www.janestreet.com/puzzles/figurine-figuring/
 * https://www.janestreet.com/puzzles/solutions/january-2021-solution/
@@ -39,6 +39,7 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * **Aug 18** https://www.janestreet.com/puzzles/hooks-4/ (works but very slow need to solve by hook not by row)
 * **Jun 19** https://www.janestreet.com/puzzles/hooks-5/ (now using the hooks #6 code as two stage hooks #4 solution too slow) 
 * **Nov 19** https://www.janestreet.com/puzzles/hooks-6/ (bit the bullet and changed my approach back to the 3 stage approach I used for #3, which worked well)
+* **Sep 19** https://www.janestreet.com/puzzles/block-party-3/ (SLOW first attempt)
 
 ### Other resources
 Very good explanations of the Feb20 - Jun20 puzzles can be found here https://willemhoek.com/
