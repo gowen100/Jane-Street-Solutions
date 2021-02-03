@@ -1,6 +1,7 @@
 ## Found out about these puzzles from <a href="https://www.efinancialcareers.co.uk/news/2020/07/how-to-get-a-job-at-jane-street">this efinancialcareers article</a> from July. Going back and looking at some of the older ones when I have time.
 
-### Jane St Feb 2021 problem
+### Jane St Feb 2021 problem (code at the end of the month)
+Looks like I got lucky when I decided to go through the old hooks puzzles. Quite a different set up to the previous ones!
 * https://www.janestreet.com/puzzles/hooks-7/
 * https://www.janestreet.com/puzzles/current-puzzle/
 
