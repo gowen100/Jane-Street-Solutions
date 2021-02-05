@@ -39,18 +39,18 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * https://www.janestreet.com/puzzles/what-a-trit/ 
 * https://www.janestreet.com/puzzles/solutions/july-2020-solution/
 
-**Hooks- Working through the old Hooks series** 
+**Working through the old puzzles. Hooks,24/7 and block party series to start** 
  
 * **Feb 14** https://www.janestreet.com/puzzles/february-2014/
 * **May 16** https://www.janestreet.com/puzzles/hooks-2/
-* **Nov 17** https://www.janestreet.com/puzzles/block-party/ (SLOW first attempt)
+* **Nov 17** https://www.janestreet.com/puzzles/block-party/ 
 * **Feb 18** https://www.janestreet.com/puzzles/hooks-3/
 * **Jun 18** https://www.janestreet.com/puzzles/twenty-four-seven/
 * **Aug 18** https://www.janestreet.com/puzzles/hooks-4/ (works but very slow need to solve by hook not by row)
 * **Mar 19** https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2/
 * **Jun 19** https://www.janestreet.com/puzzles/hooks-5/ (now using the hooks #6 code as two stage hooks #4 solution too slow) 
 * **Nov 19** https://www.janestreet.com/puzzles/hooks-6/ (bit the bullet and changed my approach back to the 3 stage approach I used for #3, which worked well)
-* **Sep 19** https://www.janestreet.com/puzzles/block-party-3/ (uses code for the original block party but is too slow on the full grid)
+* **Sep 19** https://www.janestreet.com/puzzles/block-party-3/ 
 
 **Other resources**
 Very good explanations of the Feb20 - Jun20 puzzles can be found here https://willemhoek.com/
