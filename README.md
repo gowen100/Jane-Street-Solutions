@@ -14,8 +14,7 @@ Wouldn't have got this one without struggling with the Oct 20 problem
 This continues 2 previous puzzles which I solved as part of my development.
 * https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2-2/
 * https://www.janestreet.com/puzzles/solutions/december-2020-solution/
-* **Jun 18** https://www.janestreet.com/puzzles/twenty-four-seven/
-* **Mar 19** https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2/
+
 
 ### Solution to the Jane St Oct/Nov 2020 problem 
 Didn't get this one but learned a lot. Implementation is from a stackexchange post. <br>
@@ -38,13 +37,17 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 
 
 ### Hooks- Working through the old Hooks series 
+ 
 * **Feb 14** https://www.janestreet.com/puzzles/february-2014/
 * **May 16** https://www.janestreet.com/puzzles/hooks-2/
+* **Nov 17** https://www.janestreet.com/puzzles/block-party/ (SLOW first attempt)
 * **Feb 18** https://www.janestreet.com/puzzles/hooks-3/
+* **Jun 18** https://www.janestreet.com/puzzles/twenty-four-seven/
 * **Aug 18** https://www.janestreet.com/puzzles/hooks-4/ (works but very slow need to solve by hook not by row)
+* **Mar 19** https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2/
 * **Jun 19** https://www.janestreet.com/puzzles/hooks-5/ (now using the hooks #6 code as two stage hooks #4 solution too slow) 
 * **Nov 19** https://www.janestreet.com/puzzles/hooks-6/ (bit the bullet and changed my approach back to the 3 stage approach I used for #3, which worked well)
-* **Sep 19** https://www.janestreet.com/puzzles/block-party-3/ (SLOW first attempt)
+* **Sep 19** https://www.janestreet.com/puzzles/block-party-3/ (uses code for the original block party but is too slow on the full grid)
 
 ### Other resources
 Very good explanations of the Feb20 - Jun20 puzzles can be found here https://willemhoek.com/
