@@ -42,6 +42,7 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 **Working through the old puzzles. Hooks,24/7 and block party series to start** 
  
 * **Feb 14** https://www.janestreet.com/puzzles/february-2014/
+* **MR 16** https://www.janestreet.com/puzzles/knight-moves/
 * **May 16** https://www.janestreet.com/puzzles/hooks-2/
 * **Nov 17** https://www.janestreet.com/puzzles/block-party/ 
 * **Feb 18** https://www.janestreet.com/puzzles/hooks-3/
