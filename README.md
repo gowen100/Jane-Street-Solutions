@@ -44,6 +44,7 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * **Feb 14** https://www.janestreet.com/puzzles/february-2014/
 * **Mar 16** https://www.janestreet.com/puzzles/knight-moves/
 * **May 16** https://www.janestreet.com/puzzles/hooks-2/
+* **Apr 17** https://www.janestreet.com/puzzles/knight-moves-2/
 * **Nov 17** https://www.janestreet.com/puzzles/block-party/ 
 * **Feb 18** https://www.janestreet.com/puzzles/hooks-3/
 * **Jun 18** https://www.janestreet.com/puzzles/twenty-four-seven/
