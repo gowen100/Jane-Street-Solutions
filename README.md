@@ -53,6 +53,7 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * **Dec 18** https://www.janestreet.com/puzzles/block-party-2/ (bit clunky so one to come back to and improve)
 * **Mar 19** https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2/
 * **Jun 19** https://www.janestreet.com/puzzles/hooks-5/ (now using the hooks #6 code as two stage hooks #4 solution too slow) 
+* **Oct 19** https://www.janestreet.com/puzzles/tri-tri-again-again/ (I used shapely to handle the triangles but it's slow. Need to come back and write my own triangle collision code)
 * **Nov 19** https://www.janestreet.com/puzzles/hooks-6/ (bit the bullet and changed my approach back to the 3 stage approach I used for #3, which worked well)
 * **Sep 19** https://www.janestreet.com/puzzles/block-party-3/ 
 <hr>
