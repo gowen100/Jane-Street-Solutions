@@ -39,8 +39,8 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * https://www.janestreet.com/puzzles/what-a-trit/ 
 * https://www.janestreet.com/puzzles/solutions/july-2020-solution/
 
-**Working through the old puzzles. Hooks,24/7 and block party series to start** 
- 
+**Working through the old puzzles.** 
+* **Jan 14** https://www.janestreet.com/puzzles/january-2014-2/ 
 * **Feb 14** https://www.janestreet.com/puzzles/february-2014/
 * **Mar 16** https://www.janestreet.com/puzzles/knight-moves/
 * **May 16** https://www.janestreet.com/puzzles/hooks-2/
@@ -54,6 +54,7 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * **Mar 19** https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2/
 * **Apr 19** https://www.janestreet.com/puzzles/remote-sudoku/
 * **Jun 19** https://www.janestreet.com/puzzles/hooks-5/ (now using the hooks #6 code as two stage hooks #4 solution too slow) 
+* **Aug 19** https://www.janestreet.com/puzzles/knight-moves-3/
 * **Sep 19** https://www.janestreet.com/puzzles/block-party-3/ 
 * **Oct 19** https://www.janestreet.com/puzzles/tri-tri-again-again/ (I used shapely to handle the triangles but it's slow. Need to come back and write my own triangle collision code)
 * **Nov 19** https://www.janestreet.com/puzzles/hooks-6/ (bit the bullet and changed my approach back to the 3 stage approach I used for #3, which worked well)
