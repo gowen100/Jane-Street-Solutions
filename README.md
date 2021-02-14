@@ -46,6 +46,7 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * **May 16** https://www.janestreet.com/puzzles/hooks-2/
 * **Apr 17** https://www.janestreet.com/puzzles/knight-moves-2/
 * **May 17** https://www.janestreet.com/puzzles/kenken-concatenated/
+* **Sep 17** https://www.janestreet.com/puzzles/square-run/
 * **Nov 17** https://www.janestreet.com/puzzles/block-party/ 
 * **Jan 18** https://www.janestreet.com/puzzles/rather-square-sudoku/
 * **Feb 18** https://www.janestreet.com/puzzles/hooks-3/
