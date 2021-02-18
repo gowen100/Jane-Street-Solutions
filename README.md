@@ -53,6 +53,7 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * **Jun 18** https://www.janestreet.com/puzzles/twenty-four-seven/
 * **Aug 18** https://www.janestreet.com/puzzles/hooks-4/ (works but very slow need to solve by hook not by row)
 * **Sep 18** https://www.janestreet.com/puzzles/spiral-region/
+* **Oct 18** https://www.janestreet.com/puzzles/subtiles/ (another one with manual overrides but works)
 * **Dec 18** https://www.janestreet.com/puzzles/block-party-2/ (bit clunky so one to come back to and improve)
 * **Jan 19** https://www.janestreet.com/puzzles/fences/ (had to resort to manual overrides to get the boundary to work)
 * **Mar 19** https://www.janestreet.com/puzzles/twenty-four-seven-2-by-2/
