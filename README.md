@@ -42,6 +42,7 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 **Working through the old puzzles.** 
 * **Jan 14** https://www.janestreet.com/puzzles/january-2014-2/ 
 * **Feb 14** https://www.janestreet.com/puzzles/february-2014/
+* **Nov 14** https://www.janestreet.com/puzzles/wrong-division/
 * **Aug 15** https://www.janestreet.com/puzzles/august-2015/
 * **Mar 16** https://www.janestreet.com/puzzles/knight-moves/
 * **May 16** https://www.janestreet.com/puzzles/hooks-2/
