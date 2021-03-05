@@ -51,7 +51,7 @@ Didn't get this one but learned a lot. Implementation is from a stackexchange po
 * **May 17** https://www.janestreet.com/puzzles/kenken-concatenated/
 * **Sep 17** https://www.janestreet.com/puzzles/square-run/
 * **Nov 17** https://www.janestreet.com/puzzles/block-party/ 
-* **Jan 18** https://www.janestreet.com/puzzles/rather-square-sudoku/
+* **Jan 18** https://www.janestreet.com/puzzles/rather-square-sudoku/ (50 mins with my numba enhanced backtracking 1.7 secs with z3!)
 * **Feb 18** https://www.janestreet.com/puzzles/hooks-3/
 * **Jun 18** https://www.janestreet.com/puzzles/twenty-four-seven/
 * **Aug 18** https://www.janestreet.com/puzzles/hooks-4/ (works but very slow need to solve by hook not by row)
