@@ -4,10 +4,10 @@ A good tableau based league table is here
 https://public.tableau.com/profile/heidi.stockton#!/vizhome/PuzzlesofJaneStreet/JaneStreet
 <hr>
 
-**Jane St Feb 2021 problem (code at the end of the month)**
+**Jane St Feb 2021 problem**
 Looks like I got lucky when I decided to go through the old hooks puzzles. Quite a different set up to the previous ones!
 * https://www.janestreet.com/puzzles/hooks-7/
-* https://www.janestreet.com/puzzles/current-puzzle/
+* https://www.janestreet.com/puzzles/solutions/february-2021-solution/
 
 **Solution to the Jane St Jan 2021 problem** 
 Wouldn't have got this one without struggling with the Oct 20 problem
