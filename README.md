@@ -4,4 +4,4 @@ A good tableau based league table is here
 https://public.tableau.com/profile/heidi.stockton#!/vizhome/PuzzlesofJaneStreet/JaneStreet
 <hr>
 
-<img src="https://github.com/gowen100/Jane-Street-Solutions/blob/master/Status.jpg?raw=true" width="600" >
+<img src="https://github.com/gowen100/Jane-Street-Solutions/blob/master/Status.jpg?raw=true" width="800" >
