@@ -3,7 +3,7 @@
 The puzzle site is here https://www.janestreet.com/puzzles/current-puzzle/
 
 A good tableau based league table is here 
-https://public.tableau.com/profile/heidi.stockton#!/vizhome/PuzzlesofJaneStreet/JaneStreet
+https://public.tableau.com/app/profile/heidi.stockton/viz/PuzzlesofJaneStreet/JaneStreet
 <hr>
 
 <img src="https://github.com/gowen100/Jane-Street-Solutions/blob/master/status.jpg?raw=true" width="800" >
