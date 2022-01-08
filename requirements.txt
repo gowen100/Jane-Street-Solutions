@@ -6,7 +6,7 @@ z3-solver
 numba
 bs4
 pulp
-rdkit
+rdkit-pypi
 networkx
 skimage
 shapely
