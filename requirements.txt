@@ -5,4 +5,8 @@ seaborn
 z3-solver
 numba
 bs4
-
+pulp
+rdkit
+networkx
+skimage
+shapely
