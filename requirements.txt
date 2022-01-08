@@ -3,3 +3,6 @@ scipy
 sympy
 seaborn
 z3-solver
+numba
+bs4
+
