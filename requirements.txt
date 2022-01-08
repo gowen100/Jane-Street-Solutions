@@ -1,0 +1,5 @@
+numpy
+scipy
+sympy
+seaborn
+z3-solver
