@@ -8,5 +8,5 @@ bs4
 pulp
 rdkit-pypi
 networkx
-skimage
+scikit-image
 shapely
