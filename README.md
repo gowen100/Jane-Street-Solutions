@@ -6,4 +6,4 @@ A good tableau based league table is here
 https://public.tableau.com/app/profile/heidi.stockton/viz/PuzzlesofJaneStreet/JaneStreet
 <hr>
 
-<img src="https://github.com/gowen100/Jane-Street-Solutions/blob/master/status.jpg?raw=true" width="500" >
+<img src="https://github.com/gowen100/Jane-Street-Solutions/blob/master/status.jpg?raw=true" width="350" >
